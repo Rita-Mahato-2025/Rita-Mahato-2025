@@ -26,14 +26,6 @@ I’m passionate about turning data into insights that drive decisions. After 5 
 
 ---
 
-## 📊 GitHub Stats  
-
-![Rita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritamahato&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritamahato&layout=compact&theme=radical)  
-
----
-
 ## 📫 Connect With Me  
 - 📄 [Resume](https://drive.google.com/file/d/1eb2wqZbo9oSCzwuScbFbfWqOt-5dX7Ic/view?usp=drive_link)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ritamahato)  
