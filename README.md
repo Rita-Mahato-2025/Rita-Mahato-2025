@@ -19,8 +19,9 @@ I’m passionate about turning data into insights that drive decisions. After 5 
 ## 📂 Featured Projects  
 🔹 [Excel Sales Project Analysis – AtliQ Hardwares](https://github.com/Rita-Mahato-2025/Excel-Sales-Project-Analysis)  
 🔹 [Diwali Sales Analysis (Python)](https://github.com/Rita-Mahato-2025/Diwali_Sales_-Analysis)  
-🔹 [AirPure-Market-Fit-Research](https://github.com/Rita-Mahato-2025/Resume-Project-Challenge-16)  
+🔹 [AtliQ-Sales-and-Finance-Analysis](https://github.com/Rita-Mahato-2025/atliq-hardware-sales-finance-analytics-sql)    
 🔹 [Power BI Dashboard – Business Insights](https://github.com/Rita-Mahato-2025/report-finance-sales-marketing-supplychain-executive-excel-sql-powerbi)  
+   
 
 *(More projects available in my repositories!)*  
 
