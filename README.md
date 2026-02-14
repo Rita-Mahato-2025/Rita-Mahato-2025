@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rita Mahato
 ##### Data Analyst | Python • SQL • Power BI
-#####  ![Top 20 - Codebasics](https://img.shields.io/badge/Top%2020-Codebasics%20Resume%20Challenge-blue)
+##### 🏆 ![Top 20 - Codebasics](https://img.shields.io/badge/Top%2020-Codebasics%20Resume%20Challenge-blue)
 
 
 I’m passionate about turning data into insights that drive decisions. After 5 years of professional IT experience (Java + Pega) and a successful career break, I’m reskilling in **Data Analytics** with hands-on projects using Excel, SQL, Power BI, and Python.  
