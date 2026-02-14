@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rita Mahato  
+# 👋 Hi, I'm Rita Mahato  | ![Top 20 - Codebasics](https://img.shields.io/badge/Top%2020-Codebasics%20Resume%20Challenge-blue)
 
 🎯 ** Data Analyst | Python • SQL • Power BI | Top 20/2090 – Codebasics Resume Challenge | Ex-Pega CSSA **  
 
