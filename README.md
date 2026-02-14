@@ -6,6 +6,10 @@ I’m passionate about turning data into insights that drive decisions. After 5 
 
 ---
 
+![Top 20 - Codebasics](https://img.shields.io/badge/Top%2020-Codebasics%20Resume%20Challenge-blue)
+
+---
+
 ## 🛠️ Skills & Tools  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
