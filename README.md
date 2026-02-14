@@ -21,9 +21,16 @@ I’m passionate about turning data into insights that drive decisions. After 5 
 🔹 [Power BI Dashboard – Business Insights](https://github.com/Rita-Mahato-2025/report-finance-sales-marketing-supplychain-executive-excel-sql-powerbi)  
 🔹 [Excel Sales Project Analysis – AtliQ Hardwares](https://github.com/Rita-Mahato-2025/Excel-Sales-Project-Analysis)  
 🔹 [Diwali Sales Analysis (Python)](https://github.com/Rita-Mahato-2025/Diwali_Sales_-Analysis)  
-🔹 [AtliQ-Sales-and-Finance-Analysis](https://github.com/Rita-Mahato-2025/atliq-hardware-sales-finance-analytics-sql)    
+🔹 [AtliQ-Sales-and-Finance-Analysis](https://github.com/Rita-Mahato-2025/atliq-hardware-sales-finance-analytics-sql)
 
-   
+## 🏆 Key Achievement
+
+📌 Ranked **Top 20 / 2090 participants (~Top 1%)**  
+Codebasics Resume Project Challenge – 2025
+
+✔ Applied data-driven storytelling  
+✔ Incorporated project-based impact metrics  
+ 
 
 *(More projects available in my repositories!)*  
 
