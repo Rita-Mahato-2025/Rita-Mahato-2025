@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Rita Mahato
-##### Data Analyst | Python • SQL • Power BI
+##### Microsoft Certified Data Analyst | Python • SQL • Power BI
 ##### 🏆 ![Top 20 - Codebasics](https://img.shields.io/badge/Top%2020-Codebasics%20Resume%20Challenge-blue)
 
 
