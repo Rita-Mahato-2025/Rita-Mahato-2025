@@ -17,6 +17,7 @@ I’m passionate about turning data into insights that drive decisions. After 5 
 
 ## 📂 Featured Projects  
 🔹 [Decoding-2026-TamilNadu-Assembly-Election](https://github.com/Rita-Mahato-2025/decoding-2026-tamilnadu-assembly-election)
+
 🔹 [QuickBite_Crisis_Analysis_&_Recovery_Strategy](https://github.com/Rita-Mahato-2025/quickbite_crisis_analysis_and_recovery_strategy)  
 🔹 [Power BI Dashboard – Business Insights](https://github.com/Rita-Mahato-2025/report-finance-sales-marketing-supplychain-executive-excel-sql-powerbi)  
 🔹 [Excel Sales Project Analysis – AtliQ Hardwares](https://github.com/Rita-Mahato-2025/Excel-Sales-Project-Analysis)  
