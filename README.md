@@ -40,7 +40,7 @@ Codebasics Resume Project Challenge – 2025
 ---
 
 ## 📫 Connect With Me  
-- 📄 [Resume](https://drive.google.com/file/d/1eb2wqZbo9oSCzwuScbFbfWqOt-5dX7Ic/view?usp=drive_link)  
+- 📄 [Resume](https://drive.google.com/file/d/1n_RFnPA-eONePbocLKOEnrtwAhaDw_Ig/view?usp=drive_link)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ritamahato)  
 - ✉️ **ritamahato.analytics@gmail.com**  
 
