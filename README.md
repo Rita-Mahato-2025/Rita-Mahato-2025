@@ -19,7 +19,7 @@ I’m passionate about turning data into insights that drive decisions. After 5 
 
 🔹 [Zoomcharts-Ecommerce-Profitability](https://github.com/Rita-Mahato-2025/zoomcharts-ecommerce-profitability)
 
-🔹 [YouTube-Channel-Analytics](https://github.com/Rita-Mahato-2025/decoding-2026-tamilnadu-assembly-election](https://github.com/Rita-Mahato-2025/youtube-channel-analytics)
+🔹 [YouTube-Channel-Analytics](https://github.com/Rita-Mahato-2025/youtube-channel-analytics)
 
 🔹 [Decoding-2026-TamilNadu-Assembly-Election](https://github.com/Rita-Mahato-2025/decoding-2026-tamilnadu-assembly-election)
 
